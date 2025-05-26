@@ -27,7 +27,7 @@ I work remotely and like to travel a lot.
 <code> <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="html" width="40px"> </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css" width="35px"> </code>
 <code> <img src="https://d4.alternativeto.net/fQgCTebKFpVyA7YIb-a2NNrS9cRdTslJvfPgdRX4R34/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9zYXNzXzc4ODkwLnBuZw.png" alt="sass" width="40px"> </code>
-<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="50px"> </code>
+<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss" width="50px"> </code>
 <br>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40px"> </code>
 <code> <img src="https://www.shareicon.net/data/512x512/2016/08/01/640324_logo_512x512.png" alt="react" width="45px"> </code>
